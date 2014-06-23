@@ -5,3 +5,5 @@ This repository contains the source code produced by the Students of Paris Dauph
 in the context of a lab work they have done within the Advanced Information Sustem course (ISI).
 
 The students have agreed to share the source code, which I am sharing under the BSD license.
+
+The names of the folders are the name chosed by students for their teams.
