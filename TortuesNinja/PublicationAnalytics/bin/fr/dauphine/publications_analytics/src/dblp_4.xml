@@ -1,0 +1,48 @@
+<dblp>
+<book key="conf/3dui/SherstyukVJ08" mdate="2012-06-08">
+	<author>Andrei Sherstyuk</author>
+	<author>Dale Vincent</author>
+	<author>Caroline Jay</author>
+	<title>Poster: Sliding Viewport for Head Mounted Displays in Interactive Environments.</title>
+	<pages>135-136</pages>
+	<year>2008</year>
+	<booktitle>3DUI</booktitle>
+	<ee>http://doi.ieeecomputersociety.org/10.1109/3DUI.2008.4476604</ee>
+	<crossref>conf/3dui/2008</crossref>
+	<url>db/conf/3dui/3dui2008.html#SherstyukVJ08</url>
+</book>
+<article key="journals/pvldb/VenetisHMPSWMW11" mdate="2012-05-13">
+	<author>Caroline Jay</author>
+	<author>Phillip W. Lord</author>
+	<author>Andrei Sherstyuk</author>
+	<title>Recovering Semantics of Tables on the Web.</title>
+	<pages>528-538</pages>
+	<year>2011</year>
+	<volume>4</volume>
+	<journal>PVLDB</journal>
+	<number>9</number>
+	<ee>http://www.vldb.org/pvldb/vol4/p528-venetis.pdf</ee>
+	<url>db/journals/pvldb/pvldb4.html#VenetisHMPSWMW11</url>
+</article>
+<inproceedings key="conf/euroweb/ChenCGKRSST02" mdate="2008-01-14">
+	<author>Kieran O'Neill</author>
+	<author>Dale Vincent</author>
+	<title>Engineering Knowledge for Engineering Grid Applications.</title>
+	<year>2002</year>
+	<crossref>conf/euroweb/2002</crossref>
+	<booktitle>EuroWeb</booktitle>
+	<ee>http://ewic.bcs.org/conferences/2002/euroweb/session1/paper2.htm</ee>
+	<url>db/conf/euroweb/euroweb2002.html#ChenCGKRSST02</url>
+</inproceedings>
+<book key="conf/3dui/blablabla" mdate="2012-06-08">
+	<author>John Smith</author>
+	<title>Poster: Sliding Viewport for Head Mounted Displays in Interactive Environments.</title>
+	<pages>135-136</pages>
+	<year>2009</year>
+	<booktitle>3DUI</booktitle>
+	<ee>http://doi.ieeecomputersociety.org/10.1109/3DUI.2008.4476604</ee>
+	<crossref>conf/3dui/2008</crossref>
+	<url>db/conf/3dui/3dui2008.html#SherstyukVJ08</url>
+</book>
+</dblp>	
+	
